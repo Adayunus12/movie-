@@ -13,7 +13,7 @@ const average = document.querySelector('.reyting')
 const story = document.querySelector('.summary')
 
 back.addEventListener('click', function(){
-    window.location.href = 'Task 30.html'
+    window.location.href = 'index.html'
 })
 console.log(title);
 
